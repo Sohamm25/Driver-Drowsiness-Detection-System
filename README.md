@@ -69,10 +69,7 @@ pip install -r requirements.txt
 ### 4. Download the facial landmark predictor
 The shape predictor file is approximately 97MB and must be downloaded separately:
 ```bash
-# Option 1: Direct download (if available on your repository)
-wget https://github.com/username/driver-drowsiness-detection/releases/download/v1.0/shape_predictor_68_face_landmarks.dat
-
-# Option 2: Download from dlib's official source
+# Option 1: Download from dlib's official source
 wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 bzip2 -d shape_predictor_68_face_landmarks.dat.bz2
 ```
