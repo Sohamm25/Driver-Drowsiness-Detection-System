@@ -8,7 +8,7 @@
 A real-time computer vision system that monitors driver alertness and prevents accidents by detecting drowsiness indicators such as closed eyes and yawning.
 
 <div align="center">
-  <img src="https://github.com/username/driver-drowsiness-detection/raw/main/demo.gif" alt="Driver Drowsiness Detection Demo" width="600px">
+  <img src="https://github.com/Sohamm25/driver-drowsiness-detection/raw/main/demo.gif" alt="Driver Drowsiness Detection Demo" width="600px">
 </div>
 
 ## 🔍 Features
@@ -51,7 +51,7 @@ A real-time computer vision system that monitors driver alertness and prevents a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/username/driver-drowsiness-detection.git
+git clone https://github.com/Sohamm25/driver-drowsiness-detection.git
 cd driver-drowsiness-detection
 ```
 
@@ -122,13 +122,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/username/driver-drowsiness-detection](https://github.com/username/driver-drowsiness-detection)
+Project Link: [https://github.com/Sohamm25/driver-drowsiness-detection](https://github.com/Sohamm25/driver-drowsiness-detection)
 
 ---
 
